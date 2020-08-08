@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: docus
+  label: Probando
+  match: "**/*"
 - type: heading
   label: cabecera
 upload_dir: uploads
