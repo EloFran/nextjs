@@ -1,4 +1,10 @@
 ---
 label: Documentos
 hide_body: false
-fields: []
+fields:
+- name: constitucion
+  type: text
+  config:
+    required: false
+  label: Constitución
+  description: Esta es la descripción que no se dónde queda
